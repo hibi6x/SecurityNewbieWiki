@@ -9,3 +9,7 @@ This is wiki where I collected basic information, script, commands on the Securi
 
 [3. Boot Dev Git learning](https://www.boot.dev/lessons/65e6780d-fdde-447a-9898-b30b73793a3a)
 
+
+[1. Markdown getting started](https://www.markdownguide.org/getting-started/)
+
+[2. Markdown training](https://www.markdowntutorial.com/)
