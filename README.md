@@ -3,6 +3,7 @@ This is wiki where I collected basic information, script, commands on the Securi
 
 # Learning github links
 
-[Learn Git & GitHub](https://www.codecademy.com/learn/learn-git)
+[1. Learn Git & GitHub](https://www.codecademy.com/learn/learn-git)
+[2. Start Github Journey](https://docs.github.com/en/get-started/start-your-journey/about-github-and-git)
+[3. Boot Dev Git learning](https://www.boot.dev/lessons/65e6780d-fdde-447a-9898-b30b73793a3a)
 
-[GitHub Actions](https://learn.microsoft.com/en-us/users/githubtraining/collections/n5p4a5z7keznp5)
